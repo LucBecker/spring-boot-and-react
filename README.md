@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/LucBecker/spring_boot_react/logos/spring.png" width="30%">
-  <img src="https://github.com/LucBecker/spring_boot_react/logos/react.png" width="22%">
+  <img src="https://github.com/LucBecker/spring-boot-and-react/blob/main/logos/spring.png" width="30%">
+  <img src="https://github.com/LucBecker/spring-boot-and-react/blob/main/logos/react.png" width="22%">
   <h1 style="border-bottom:none">Spring Boot e React</h1>
   
   <br>
