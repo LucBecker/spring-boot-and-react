@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Teste CORS</title>
+
+    <script>
+
+        fetch('http://localhost:8080/listar)    //realiza a requisição
+        .then(produtos => produtos.json())      //converte o valor recebido em JSON
+        .then(retorno => console.log(retorno))  // exibindo os produtos
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
